@@ -1,0 +1,4 @@
+'use client';
+import {MotionConfig} from 'framer-motion';import type {SiteTemplatePageProps} from '../../../types';
+import {Hero} from '../components/Hero';import {About} from '../components/About';import {Explore} from '../components/Explore';import {Properties,AllProperties} from '../components/Properties';import {Services} from '../components/Services';import {Reviews} from '../components/Reviews';import {Faq,Footer} from '../components/Footer';import '../theme.css';
+export default function HomePage({locale='zh',basePath}:SiteTemplatePageProps){return <MotionConfig reducedMotion="user"><main className="op-root" lang={locale==='zh'?'zh-CN':'en'}><Hero locale={locale} basePath={basePath}/><About locale={locale}/><Explore locale={locale}/><Properties locale={locale}/><Services locale={locale}/><AllProperties locale={locale}/><Reviews locale={locale}/><Faq locale={locale}/><Footer locale={locale}/></main></MotionConfig>}

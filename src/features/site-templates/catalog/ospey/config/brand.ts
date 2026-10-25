@@ -1,0 +1,1 @@
+export const brand={name:{zh:'Ospey',en:'Ospey'},logo:'/templates/ospey/media/mark.svg',email:'info@ospey.com',year:2026};

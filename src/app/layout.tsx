@@ -1,0 +1,1 @@
+import type {ReactNode} from 'react';import './globals.css';export const metadata={title:'Ospey · 现代居所',description:'连接理想生活与非凡建筑'};export default function Layout({children}:{children:ReactNode}){return <html lang="zh-CN"><body>{children}</body></html>}

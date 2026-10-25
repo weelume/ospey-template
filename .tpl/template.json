@@ -1,0 +1,158 @@
+{
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "ospey",
+  "version": "1.0.0",
+  "name": "Ospey · 现代房产",
+  "localizedNames": {
+    "en": "Ospey · Modern real estate"
+  },
+  "gitUrl": null,
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "房产",
+    "建筑",
+    "视频",
+    "中英文"
+  ],
+  "summary": "现代房产单页模板，含建筑视频叠层、9阶段项目展示、房源轮播、预约演示、客户评价与FAQ。",
+  "accentColor": "#afe37e",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "Ospey desktop home",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/desktop-about.webp",
+      "alt": "Ospey desktop about",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/desktop-properties.webp",
+      "alt": "Ospey desktop properties",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "Ospey desktop contact",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "Ospey tablet home",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-about.webp",
+      "alt": "Ospey tablet about",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-properties.webp",
+      "alt": "Ospey tablet properties",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "Ospey tablet contact",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "Ospey mobile home",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-about.webp",
+      "alt": "Ospey mobile about",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-properties.webp",
+      "alt": "Ospey mobile properties",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "Ospey mobile contact",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": ""
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "房产官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "现代房产",
+          "localizedTitles": {
+            "en": "Modern real estate"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "参考设计与素材的商业再分发许可未核实，保持未上架。",
+    "redistributionAllowed": false
+  }
+}

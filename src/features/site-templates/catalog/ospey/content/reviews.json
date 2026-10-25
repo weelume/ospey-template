@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MARCUS VANCE",
+    "role": "VILLAS RESIDENT",
+    "quote": "From our initial layout consultation to the final physical walkthrough, their high attention to structural detail was outstanding. Our family now has a quiet sanctuary that we are incredibly proud to call our home.",
+    "avatar": "/templates/ospey/media/avatar-1.jpg"
+  },
+  {
+    "name": "THATCHER BLAINE",
+    "role": "HOMEOWNER",
+    "quote": "We thought our small space would never work, but wow, were we wrong! They transformed our cramped house into a bright, open, and functional space. We didn't just get a home makeover-we got a lifestyle upgrade!",
+    "avatar": "/templates/ospey/media/avatar-2.jpg"
+  },
+  {
+    "name": "ELEANOR PENN",
+    "role": "MODERN PENTHOUSE OWNER",
+    "quote": "Finding a modern real estate team that truly understands elite architectural elegance and bespoke spatial styling is rare. They did not just find us a beautiful villa, they captured our creative vision perfectly.",
+    "avatar": "/templates/ospey/media/avatar-3.jpg"
+  },
+  {
+    "name": "KAIUS THORNE",
+    "role": "BAY AREA CLIENT",
+    "quote": "The gorgeous custom floorplans and luxury minimalist aesthetics completely exceeded our family expectations. Navigating the high-end California market was effortless with their absolute white-glove service.",
+    "avatar": "/templates/ospey/media/avatar-4.jpg"
+  },
+  {
+    "name": "SERAPHINA MOSS",
+    "role": "MODERNIST ENTHUSIAST",
+    "quote": "Every single room they curated has a flawless structural balance of ambient light, rich material textures, and physical flow. It is a true masterclass in modern architectural planning and bespoke executive execution.",
+    "avatar": "/templates/ospey/media/avatar-5.jpg"
+  },
+  {
+    "name": "JULIAN REED",
+    "role": "TOWNHOUSE BUYER",
+    "quote": "The sheer level of professional elegance and eye for spatial design on this talented team is completely unmatched. They transformed our stressful estate search into an inspiring journey of design discovery.",
+    "avatar": "/templates/ospey/media/avatar-6.jpg"
+  },
+  {
+    "name": "CLARA DUPONT",
+    "role": "CHATEAU OWNER",
+    "quote": "Their incredible talent to harmonize historic European heritage with ultra-modern premium convenience is absolutely outstanding. A bespoke elite experience that has permanently elevated our daily lifestyle standard.",
+    "avatar": "/templates/ospey/media/avatar-7.jpg"
+  },
+  {
+    "name": "DORIAN CROFT",
+    "role": "ESTATE CLIENT",
+    "quote": "A flawless triumph of custom architectural planning and precise artisan craftsmanship. Every single square foot of our estate feels completely intentional, highly refined, and deeply personal.",
+    "avatar": "/templates/ospey/media/avatar-8.jpg"
+  },
+  {
+    "name": "ADRIAN STERLING",
+    "role": "COASTAL VILLA OWNER",
+    "quote": "Our dynamic build process was handled with absolute mastery. Their expert team transformed our beach plot into a striking, light-filled modernist villa that exceeds all our aesthetic benchmarks.",
+    "avatar": "/templates/ospey/media/avatar-9.jpg"
+  },
+  {
+    "name": "VIVIENNE WEST",
+    "role": "LUXURY BUYER",
+    "quote": "The level of premium care, clear communication, and high aesthetic intelligence we experienced was truly exceptional. They turned our ambitious penthouse dream into a pristine, beautifully physical reality.",
+    "avatar": "/templates/ospey/media/avatar-10.jpg"
+  }
+]

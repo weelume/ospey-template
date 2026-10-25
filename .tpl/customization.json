@@ -1,0 +1,90 @@
+{
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌",
+      "description": "修改后检查对应双语页面与响应式布局",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/ospey/config",
+          "kind": "directory",
+          "purpose": "品牌"
+        }
+      ],
+      "constraints": [
+        "保留双语与可访问性",
+        "不在表单中发送或保存数据"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "双语内容",
+      "description": "修改后检查对应双语页面与响应式布局",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/ospey/content",
+          "kind": "directory",
+          "purpose": "双语内容"
+        }
+      ],
+      "constraints": [
+        "保留双语与可访问性",
+        "不在表单中发送或保存数据"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "主题样式",
+      "description": "修改后检查对应双语页面与响应式布局",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/ospey/theme.css",
+          "kind": "file",
+          "purpose": "主题样式"
+        }
+      ],
+      "constraints": [
+        "保留双语与可访问性",
+        "不在表单中发送或保存数据"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "components",
+      "title": "区块与交互",
+      "description": "修改后检查对应双语页面与响应式布局",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/ospey/components",
+          "kind": "directory",
+          "purpose": "区块与交互"
+        }
+      ],
+      "constraints": [
+        "保留双语与可访问性",
+        "不在表单中发送或保存数据"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    }
+  ]
+}
