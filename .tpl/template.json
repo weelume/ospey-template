@@ -1,4 +1,5 @@
 {
+  "$schema": "./schemas/template.schema.json",
   "format": "git-template",
   "formatVersion": "0.2.0",
   "id": "ospey",
