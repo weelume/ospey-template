@@ -12,7 +12,7 @@ pnpm typecheck、pnpm lint、pnpm test、pnpm build。品牌入口 config/brand.
 
 ## 限制
 
-预约与订阅仅浏览器本地校验，不发送、不保存。媒体播放失败会显示状态，不静默替代素材。减少动态效果时暂停自动视频和循环。未配置真实 Git 远端，gitUrl 为 null 不满足最终协议，状态保持 scaffold；验收记录不代表来源或素材商业授权。来源与许可见 .tpl/docs/ASSETS.json 与 LICENSE.md。未经明确授权不推送、上传或部署。
+预约与订阅仅浏览器本地校验，不发送、不保存。媒体播放失败会显示状态，不静默替代素材。减少动态效果时暂停自动视频和循环。源码仓库为 https://github.com/weelume/ospey-template；验收记录不代表来源或素材商业授权。来源与许可见 .tpl/docs/ASSETS.json 与 LICENSE.md。未经明确授权不推送、上传或部署。
 
 ## 参考范围
 
